@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">HoHoHoHorgász webshop</string>
+    <string name="regisztr_ci">Regisztráció</string>
+    <string name="bejelentkez_s_google_fi_kkal">Bejelentkezés Google fiókkal</string>
+    <string name="bejelentkez_s">Bejelentkezés</string>
+    <string name="felhaszn_l_n_v">Felhasználónév</string>
+    <string name="email_c_m">Email cím</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="jelsz_ism_tl_se">Jelszó ismétlése</string>
+    <string name="visszal_p_s">Visszalépés</string>
+    <string name="nem_szeretn_k_regisztr_lni">Nem szeretnék regisztrálni</string>
+    <string name="itemLeiras">Tárgy neve</string>
+    <string name="itemAr">Ár</string>
+
+    <string-array name="itemName">
+        <item>Kis Horog</item>
+        <item>Nagy Horog</item>
+        <item>Mintás csali</item>
+        <item>100m damil</item>
+        <item>300m damil</item>
+        <item>Csali tartó doboz</item>
+        <item>Sima horgászbot</item>
+        <item>Profi horgászbot</item>
+        <item>Úszó</item>
+    </string-array>
+
+    <array name="itemPrice">
+        <item>200 Ft</item>
+        <item>400 Ft</item>
+        <item>1500 Ft</item>
+        <item>1200 Ft</item>
+        <item>3500 Ft</item>
+        <item>7000 Ft</item>
+        <item>17 000 Ft</item>
+        <item>60 000 Ft</item>
+        <item>4000 Ft</item>
+    </array>
+
+    <array name="itemImage">
+        <item>@drawable/kis_horog</item>
+        <item>@drawable/nagy_horog</item>
+        <item>@drawable/mintas_csali</item>
+        <item>@drawable/d100m_damil</item>
+        <item>@drawable/d300m_damil</item>
+        <item>@drawable/csali_tarto_doboz</item>
+        <item>@drawable/sima_horgaszbot</item>
+        <item>@drawable/profi_horgaszbot</item>
+        <item>@drawable/uszo</item>
+    </array>
+
+    <string name="title_activity_webshop_with_drawer">webshopWithDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HoHoHoHorgász Webshop</string>
+    <string name="nav_header_subtitle">A legjobb horgász felszerelések</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_logout">Kijelentkezés</string>
+    <string name="menu_cart">Kosár</string>
+    <string name="menu_webshop">Webshop</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kos_rba">Kosárba</string>
+    <string name="megrendel_s">Megrendelés</string>
+    <string name="kos_r_t_rl_se">Kosár törlése</string>
+    <string name="term_k_neve">Termék neve</string>
+    <string name="term_k_ra">Termék ára</string>
+    <string name="sikeres_megrendel_s">Megrendelés leadása</string>
+    <string name="kosar">kosar</string>
+    <string name="item">Item</string>
+</resources>

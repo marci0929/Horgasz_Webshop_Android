@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633488002143",
+    "project_id": "horgaszboltwebshop",
+    "storage_bucket": "horgaszboltwebshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633488002143:android:98278922bccbcaaaefdfea",
+        "android_client_info": {
+          "package_name": "com.example.kotprog_horgasz_webshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633488002143-cgchf0i43ua9b58rj5e3k8npd7qhef9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotprog_horgasz_webshop",
+            "certificate_hash": "8794867fe2519c530f47dad4733e7f11b7bd6cb3"
+          }
+        },
+        {
+          "client_id": "633488002143-m89gn2ki93v6ukgnlhudeiabkpfu0te0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgzIpO4MrCXbsZaU39W8QL-LV_RoMcks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633488002143-m89gn2ki93v6ukgnlhudeiabkpfu0te0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/drawable/fishing_icon_background.xml" value="0.209" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_item_page.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_kosar.xml" value="0.3939393939393939" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_regisztracio.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_webshop.xml" value="0.33" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/activity_webshop_with_drawer.xml" value="0.2" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/app_bar_main.xml" value="0.5" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/app_bar_webshop_with_drawer.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/content_webshop_with_drawer.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/felso_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/fragment_blank.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/fragment_gallery.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/fragment_item_lista.xml" value="0.48863636363636365" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/item_lista.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/item_of_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/megrendeles_sikeres.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/nav_draver.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/nav_header_main.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/layout/nav_header_webshop_with_drawer.xml" value="0.2015625" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/menu/activity_main_drawer.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/menu/drawer_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/menu/felso_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Softwares/Android_projects/Kotprog_Horgasz_Webshop/app/src/main/res/menu/webshop_with_drawer.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
